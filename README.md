@@ -13,7 +13,7 @@
   - Create a virtual environment in your current directory for a project with the command: 'virtualenv virt'
   - Start the virtual environment by activating with the command: 'virt/scripts/activate'
 - Install Requirements.txt using the command 'pip install requirements.txt'
-- Go to directory Image-encryption-3DES.
+- Go to directory.
   - start the server.py -> 'python3 server.py
   - start the client.py in parallel in another terminal 'python3 client.py'
   - this will store the shared key in files
